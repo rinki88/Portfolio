@@ -1,5 +1,5 @@
-# Portfolio project 
+# Portfolio 
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](screenshot.jpeg)
 
 [Live Demo](https://rinki88.github.io/Portfolio/)
